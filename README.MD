@@ -52,7 +52,7 @@
 
 #### 🗒 pkg install python2
 
-#### 🗒 git clone https://github.com/royalclouddevelopers/Python-Port-Scanner.git
+#### 🗒 git clone https://github.com/royalclouddevelopers/Python-file-encrypter-and-decrypter.git
 
 #### 🗒 cd Python-Port-Scanner
 
