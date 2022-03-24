@@ -1,5 +1,5 @@
 #  ⬅️ Python-file_encrypter and decrypter v.0.1 ➡️ ᴠ.0.2 ᴜᴘᴅᴀᴛᴇ ꜱᴏᴏɴ 🔜
-<center>
+
 ![115132748-7c50cd80-a020-11eb-88c5-5394daa664ac_macbookgrey_front](https://user-images.githubusercontent.com/82527627/159852523-ff19447a-e0ba-4b7f-9486-09e09a47602c.PNG)</center>
 
 ### </ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ>
